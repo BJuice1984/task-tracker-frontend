@@ -1,5 +1,7 @@
 # task-tracker-frontend
 
+Актуальный репозиторий по ссылке https://github.com/tasktrackerpracticum/frontend.
+
 ### Используемый стек
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
